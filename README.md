@@ -1,4 +1,11 @@
 # my_kernel_study_from_educ
-한국전자정보통신산업진흥회(KEA)에서 진행한 국가 인적자원 개발 컨소시엄 중 리눅스 시스템 프로그래밍 과정과 리눅스 디바이스 드라이버 과정 코드를 제가 사용하기 편하게 customize한 repository입니다.
-원본코드는 유지하면서 빌드 과정을 편하게 빌드 스크립트를 작성했고,  
-docker 환경을 사용할 수 있도록 docker디렉토리를 추가하였습니다.
+customized sources from https://github.com/kernel-bz
+ - linux kernel driver example code:  
+   https://github.com/kernel-bz/kernel-study
+ - linux system programming example code related to system calls:  
+   https://github.com/kernel-bz/linux-system-programming
+
+# What kind of contents added or customized
+ - build script for cross compile(kernel build, install, device driver driver build)
+ - docker environment
+
