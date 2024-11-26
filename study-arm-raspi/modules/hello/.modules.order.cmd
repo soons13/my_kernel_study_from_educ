@@ -1,0 +1,1 @@
+cmd_/home/kernel-study/kernel/study-arm-raspi/modules/hello/modules.order := {   echo /home/kernel-study/kernel/study-arm-raspi/modules/hello/hello.ko; :; } > /home/kernel-study/kernel/study-arm-raspi/modules/hello/modules.order
