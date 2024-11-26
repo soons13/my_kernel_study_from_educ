@@ -1,0 +1,1 @@
+cmd_/home/kernel-study/kernel/study-arm-raspi/modules/hello/hello.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/kernel-study/kernel/study-arm-raspi/modules/hello/hello.ko /home/kernel-study/kernel/study-arm-raspi/modules/hello/hello.o /home/kernel-study/kernel/study-arm-raspi/modules/hello/hello.mod.o;  true
