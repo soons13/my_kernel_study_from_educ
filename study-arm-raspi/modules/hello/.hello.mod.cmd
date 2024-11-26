@@ -1,1 +1,0 @@
-cmd_/home/kernel-study/kernel/study-arm-raspi/modules/hello/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/kernel-study/kernel/study-arm-raspi/modules/hello/"$$0) }' > /home/kernel-study/kernel/study-arm-raspi/modules/hello/hello.mod
